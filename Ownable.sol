@@ -1,3 +1,8 @@
+/* Metadata of "smartwallet" was published successfully.
+contracts/Ownable.sol
+contracts/SmartWallet.sol
+*/
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
